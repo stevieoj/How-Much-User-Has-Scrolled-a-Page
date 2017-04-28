@@ -1,2 +1,2 @@
 # How-Much-a-User-Has-Scrolled-a-Page
-computing how much the user has scrolled a page using Javascript
+computing the number of times a user scrolled a page
