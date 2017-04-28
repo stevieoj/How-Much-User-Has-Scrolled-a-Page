@@ -1,2 +1,2 @@
-# How-Much-a-User-Has-Scrolled-a-Page
+# How many times a user scrolled a page
 computing the number of times a user scrolled a page
